@@ -1,0 +1,13 @@
+
+2026-10-23 09:00:01 INFO Application started
+2026-10-23 09:01:15 INFO User login successful
+2026-10-23 09:02:10 ERROR Database connection failed
+2026-10-23 09:02:15 WARNING Retrying database connection
+2026-10-23 09:02:20 ERROR Database connection failed
+2026-10-23 09:03:30 INFO Database connection restored
+2026-10-23 09:04:05 ERROR API request failed with status 500
+2026-10-23 09:05:00 INFO Request completed successfully
+2026-10-23 09:06:12 WARNING Login attempt limit approaching
+2026-10-23 09:07:25 ERROR Database connection failed
+2026-10-23 09:08:00 ERROR Authentication failed
+2026-10-23 09:09:00 INFO Application health check passed

@@ -1,0 +1,6 @@
+timestamp,level,message,line_number
+2026-10-23 09:02:10,ERROR,Database connection failed,4
+2026-10-23 09:02:20,ERROR,Database connection failed,6
+2026-10-23 09:04:05,ERROR,API request failed with status 500,8
+2026-10-23 09:07:25,ERROR,Database connection failed,11
+2026-10-23 09:08:00,ERROR,Authentication failed,12
